@@ -6,3 +6,7 @@
     
   1-1) source
     https://github.com/Microsoft/AirSim
+
+  1-2) Ho to apply machine learning?
+  
+    https://microsoft.github.io/AirSim/docs/reinforcement_learning/

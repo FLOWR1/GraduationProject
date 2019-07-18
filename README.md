@@ -20,3 +20,7 @@
   1-3-1) 
   
   https://github.com/Microsoft/AirSim/blob/master/docs/reinforcement_learning.md
+  
+  1-3-2)
+  
+  https://github.com/microsoft/AirSim/blob/master/PythonClient/multirotor/DQNdrone.py

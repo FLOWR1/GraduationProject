@@ -16,3 +16,7 @@
   1-3) application example
   
   https://github.com/simondlevy/AirSimTensorFlow
+
+  1-3-1) 
+  
+  https://github.com/Microsoft/AirSim/blob/master/docs/reinforcement_learning.md
